@@ -11,4 +11,4 @@ Observações:
 - Deve apresentar um prompt para a escolha das funcionalidades
 - Valores randômicos de 0 a 1500
 - Os valores podem ser repetidos, não iremos tratar exceções
-  - Não há necessidade de interface gráfica
+- Não há necessidade de interface gráfica
